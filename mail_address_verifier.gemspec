@@ -7,11 +7,11 @@ Gem::Specification.new do |spec|
   spec.name          = "mail_address_verifier"
   spec.version       = MailAddressVerifier::VERSION
   spec.authors       = ["Kikuchi Ken"]
-  spec.email         = ["kikuchi@hamajima.co.jp"]
+  spec.email         = ["ken@nuasa.org"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{Ruby Gem for mailaddress verification}
+  spec.description   = %q{Ruby Gem for mailaddress verification}
+  spec.homepage      = "https://github.com/kenkiku1021/mail_address_verifier"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or
